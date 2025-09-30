@@ -135,26 +135,3 @@ Key measures include:
 3. Explore the report pages and slicers.  
 
 ---
-
-## 📌 Files in Repo  
-
-```
-FreshMart-PowerBi-Campaign-Analytics/             
-│        
-├─ FreshMart-Analytics.pbix # Power BI project file                 
-├─ README.md # Project documentation                  
-├─ dax/              
-│ └─ measures.md # All DAX formulas with explanations              
-└─ screenshots/               
-├─ 01_campaign_performance.png            
-├─ 02_customer_demographics.png               
-└─ 03_campaign_drivers.png             
-```
-
----
-
-## 📢 Author  
-
-👩‍🎨 **Ansh Mathur** – Software Engineer               
-🌐 LinkedIn: [Connect with me on LinkedIn](https://www.linkedin.com/in/ansh-mathur-4b8a58201/) 
----
