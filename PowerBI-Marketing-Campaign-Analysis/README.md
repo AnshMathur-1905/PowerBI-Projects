@@ -133,5 +133,3 @@ Key measures include:
 1. Clone or download this repo.  
 2. Open **FreshMart-Analytics.pbix** in Power BI Desktop.  
 3. Explore the report pages and slicers.  
-
----
