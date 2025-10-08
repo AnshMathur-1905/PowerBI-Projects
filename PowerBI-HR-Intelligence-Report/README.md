@@ -40,7 +40,7 @@ The dataset originates from three core source tables and was reshaped into a sta
 ## 📊 Dashboard Pages
 
 ### **1. Cover Page**
-![Cover Page](PowerBI-HR-Intelligence-Report/Screenshots/01_CoverPage.png)
+![Cover Page](https://github.com/AnshMathur-1905/PowerBI-Projects/blob/main/PowerBI-HR-Intelligence-Report/Screenshots/01_CoverPage.png)
 
 ---
 ### **2. Employee Headcount**  
@@ -51,7 +51,7 @@ Key Metrics:
 - Headcount by Demographics (Gender, Education, Marital Status, Age, Race)
 - City-wise Headcount Map
 
-![Employee Headcount](PowerBI-HR-Intelligence-Report/Screenshots/02_Employee_Headcount.png)
+![Employee Headcount](https://github.com/AnshMathur-1905/PowerBI-Projects/blob/main/PowerBI-HR-Intelligence-Report/Screenshots/02_Employee_Headcount.png)
 
 ---
 
@@ -63,7 +63,7 @@ Key Metrics:
 - Retention by Job Level
 - Retention Comparisons by demographics
 
-![Employee Headcount](PowerBI-HR-Intelligence-Report/Screenshots/03_Employee_Retention.png)
+![Employee Retention](https://github.com/AnshMathur-1905/PowerBI-Projects/blob/main/PowerBI-HR-Intelligence-Report/Screenshots/03_Employee_Retention.png)
 
 ---
 ### **4. Employee Turnover**  
@@ -74,7 +74,7 @@ Key Metrics:
 - Employee Profiles → Demographic and job-level characteristics of leavers
 - Termination Type & Reason 
 
-![Employee Headcount](PowerBI-HR-Intelligence-Report/Screenshots/04_Employee_Turnover.png)
+![Employee Turnover](https://github.com/AnshMathur-1905/PowerBI-Projects/blob/main/PowerBI-HR-Intelligence-Report/Screenshots/04_Employee_Turnover.png)
 
 ---
 
@@ -102,7 +102,7 @@ Key measures include:
 ## 🚀 How to Use  
 
 1. Clone or download this repository.
-2. Open **HR Intelligence Report.pbix** in Power BI Desktop.
+2. Open **HR-Intelligence-Report.pbix** in Power BI Desktop.
 3. Explore dashboard pages using slicers and filters. 
 
 ---
